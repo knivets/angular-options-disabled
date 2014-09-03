@@ -1,0 +1,21 @@
+{
+  "name": "angular-options-disabled",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Knivets/angular-options-disabled",
+  "authors": [
+    "Dima Knivets <knivets@gmail.com>"
+  ],
+  "dependencies": {
+    "angular": ">= 1.0.8"
+  },
+  "description": "Angular directive for disabling specific options in ng-options directive.",
+  "main": "src/angular-options-disabled.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
