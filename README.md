@@ -1,11 +1,13 @@
 angular-options-disabled
 ========================
 
-Angular directive for disabling specific options in ng-options directive.
+Angular directive for disabling specific options in ```ng-options``` directive.
 
 
 Installation
 ============
+
+Via bower:
 
 ```bower install angular-options-disabled```
 
